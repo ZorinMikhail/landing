@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgba(26, 17, 17, 0.178);
+    text-align: center;
+    margin: 20px 0;
+}
+.menu{
+    background-color: rgba(0, 0, 0, 0.384);
+    text-align: center;
+    font-size: 0;   
+  
+}
+.navigator{
+    color: white;
+    text-decoration: none;
+    padding: 0 20px;
+    font-size: 16px;
+    line-height: 40px;
+    display: inline-block;
+
+}
+h2{
+    text-align: center;
+    
+
+}
+.click{
+    display: inline-block;
+    text-align: center;
+    
+    
+    
+    
+}
+.banner{
+    background-image: url("forest.jpg");
+    text-align: center;
+    overflow: hidden;
+    background-position:center ;
+    background-size: cover;
+    
+    
+}
+.banner div{
+    clear: both;
+}
+p{
+    background-image: linear-gradient(to right,transparent,#222);
+    color: white;
+    width: 60%;
+    float: right;
+    text-align: right;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 3px;
+    
+    
+    
+
+    
+}
